@@ -1,0 +1,10 @@
+li {
+  color: palegoldenrod;
+}
+.correct {
+  color: rgb(97, 255, 97);
+}
+
+.incorrect {
+  color: rgb(150, 0, 0);
+}

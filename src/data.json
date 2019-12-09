@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/1zygarde.gif",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/2absol.gif",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/3dragonite.gif",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/4eevee.gif",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/5garchomp.gif",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/6gardevoir.gif",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/7gengar.gif",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/8charmander.gif",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/9leafeon.gif",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/10ninetales.gif",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/11scizor.gif",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/12squirtle.gif",
+    "clicked": false
+  }
+]

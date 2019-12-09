@@ -1,0 +1,12 @@
+.footer {
+  background-color: palevioletred;
+  color: rgb(128, 183, 255);
+  height: 100px;
+  position: relative;
+  overflow: auto;
+}
+.bottom {
+  color: rgb(128, 183, 255);
+  font-weight: 900;
+  font-size: 1.5em;
+}
